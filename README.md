@@ -105,6 +105,8 @@
 
 
 ## Github Stats  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WebDeveloper0315&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper0315&hide_border=true&layout=compact" align="end" /> </div> 
