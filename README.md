@@ -110,7 +110,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper0315&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
+<br/>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -118,8 +118,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="" /></div>  
 
 <br/>  
 
@@ -140,4 +138,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Made by Blackghost</div>
