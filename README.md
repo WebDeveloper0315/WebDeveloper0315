@@ -6,13 +6,13 @@
 ### About Me:  
   
 
-- 🔭 I’m currently working on [Inventory Management by Next.js](https://github.com/WebDeveloper0315/inventory-nextjs-antd)  
+- 🔭 I’m currently working on [Trading Bot for Polymarket](https://github.com/WebDeveloper0315/MultiTradingByPolyterm) and [Bybit Trading Bot](https://github.com/WebDeveloper0315/BybitTradingBot)  
   
 
-- 🌱 I’m currently learning Reverse Engineering  
+- 🌱 I’m currently working as Reverse Engineer
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies.  
+- ❓ Ask me about anything related to Soft Engineering 
   
 
 <br/>  
